@@ -1,0 +1,39 @@
+<?php
+include '../../connect.php';
+if(isset($_GET['id2']))
+{
+	$parameter_id=$_GET["id2"];
+
+   $link->where('id',$parameter_id);
+   $h=$link->delete('TestParameterTb'); 
+   header("location:../../TestParameterDisplay.php");   
+}
+if(isset($_GET["id3"]))
+{
+	$a=$_GET["id3"];
+	$link->where("PackageID",$a);
+	$a=$link->update("PackageTB",Array('Is_Active'=>0));
+	header("location:../../PackageDisplay.php");
+}
+if(isset($_GET["id4"]))
+{
+	$a1=$_GET["id4"];  
+	$link->where("TestID",$a1);
+	$a=$link->update("TestTB",Array('Is_Active'=>0));
+	header("location:../../TestDiseaseDisplay.php");
+}
+if(isset($_GET["id5"]))
+{
+	$a1=$_GET["id5"];  
+	$link->where("DiseaseID",$a1);
+	$a=$link->update("DiseaseCategoryTB",Array('Is_Active'=>0));
+	header("location:../../DiseaseDetails.php");
+}
+if(isset($_GET["id6"]))
+{
+    $a1=$_GET["id6"];
+	$link->where("AgeDiseaseID",$a1);
+	$a=$link->update("agediseasetb",Array('Is_Active'=>0));
+	header("location:../../AgeDiseaseDisplay.php");
+}
+?>

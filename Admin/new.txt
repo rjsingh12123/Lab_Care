@@ -1,0 +1,178 @@
+http://www.anandlab.com
+https://www.srlworld.com
+http://www.urbanui.com/appular/template/demo/vertical-default-light
+
+
+User
+    1.User_ID
+    2.Full Name
+    3.Contact No.
+    4.Address
+    5.City_ID
+    7.Gender
+    8.Email
+    9.password
+ 
+	
+Age
+DOB
+
+categorytb
+category_id
+category_name
+
+
+subcategoryTB
+subcategoryid
+subcategoryname
+price
+description
+category_id
+
+
+Country
+    1.Country_ID
+    2.Country_Name
+status			 
+
+State
+    1.State_ID
+    2.State_Name
+    3.Country_ID
+status
+City
+    1.City_ID
+    2.City_Name    
+    3.State_ID
+
+Admin
+    2.User_Name
+    3.Password
+
+Package 
+  1.Package_ID
+  2.Vendor_ID
+  Package_Category_Name
+  3.Package_Name
+  4.Package_Price
+
+package_item
+	package_item_id
+  1.Package_ID
+	report_id		
+  
+
+
+
+  
+ 
+Vendor
+  1.Vendor_ID
+  2.Vendor_Name
+  3.Mobile_No
+  4.Email_ID
+  5.Laboratory_Name
+  6.Laboratory_Address
+  7.Licence_ID_Proof
+  8.Laboratory_Logo
+  9.Password  
+  12.City_ID
+  
+  
+ Booking
+  1.Book_Id
+  2.User_ID
+  3.Package_ID
+
+Payment
+  1.Payment_ID
+  2.Payment_Type
+  3.User_ID
+
+Bill
+  1.Bill_ID
+  2.User_ID
+  3.Report_ID
+  4.Payment_ID
+  
+FeedBack
+  1.FeedBack_ID
+  2.User_ID 
+  3.FeedBack
+
+Cart
+  1.Cart_ID
+  2.User_ID
+  3.Report_ID
+   
+Report
+  1.Report_ID
+  2.Category_ID
+  4.User_ID
+  5.Description
+
+
+
+==========================================================================
+
+Appointment
+  1.Appointment_ID
+  2.MyReport_ID
+  3.User_ID
+  4.Doctor_ID
+  5.Status_ID
+  6.Mobile_No
+  7.Appointment_Date
+  8.Appointment_Time
+
+  
+Doctor
+  1.Doctor_ID
+  2.Doctor_Name
+  3.Mobile_No
+  4.Email_ID
+  5.Hospital_Name
+  6.Specialist
+  7.Doctor_License_ID_Proof 
+  8.Gender
+  9.Qualification
+  10.Physical_Address
+  11.Doctor_Pic
+  12.Available_Day
+  13.Available_Time
+  14.Password
+
+Status
+  1.Status_ID
+  2.Status_Name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

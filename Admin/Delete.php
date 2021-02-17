@@ -1,0 +1,42 @@
+<?php
+include 'connect.php';
+if(isset($_GET['id1']))
+{
+   $link->where('CountryID',$_GET['id1']);
+   $h=$link->update('CountryTB',Array('Is_Active'=>0)); 
+   header("location:CountryDisplay.php");   
+}
+if(isset($_GET['id']))
+{
+   $link->where('StateID',$_GET['id']);
+   $h=$link->update('StateTB',Array('Is_Active'=>0)); 
+   header("location:StateDisplay.php");   
+}
+if(isset($_GET['id2']))
+{
+   $link->where('CityID',$_GET['id2']);
+   $h=$link->update('CityTB',Array('Is_Active'=>0)); 
+   header("location:CityDisplay.php");   
+}
+if(isset($_GET["id3"]))
+{
+	$a=$_GET["id3"];
+	$link->where("PackageCategoryID",$a);
+	$a=$link->update("PackageCategoryTB",Array('Is_Active'=>0));
+	header("location:PackageCategoryDisplay.php");
+}
+if(isset($_GET["id4"]))
+{
+	$a1=$_GET["id4"];  
+	$link->where("TestID",$a1);
+	$a=$link->update("TestTB",Array('Is_Active'=>0));
+	header("location:../Test/TestDiseaseDetails.php");
+}
+if(isset($_GET["id5"]))
+{
+	$a1=$_GET["id5"];  
+	$link->where("DiseaseID",$a1);
+	$a=$link->update("DiseaseCategoryTB",Array('Is_Active'=>0));
+	header("location:../Disease/DiseaseDetails.php");
+}
+?>

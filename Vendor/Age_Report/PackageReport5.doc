@@ -1,0 +1,1264 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="PackageReport4_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>dell</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>dell</o:LastAuthor>
+  <o:Revision>22</o:Revision>
+  <o:TotalTime>42</o:TotalTime>
+  <o:Created>2019-06-07T04:45:00Z</o:Created>
+  <o:LastSaved>2019-06-12T16:54:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>182</o:Words>
+  <o:Characters>1042</o:Characters>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1222</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="PackageReport4_files/themedata.thmx">
+<link rel=colorSchemeMapping href="PackageReport4_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>109</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>HI</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:32771 0 0 0 1 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:Mangal;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:Mangal;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:Mangal;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:Mangal;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:12.5pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:Mangal;
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'><span class=GramE>Package
+:</span> Complete Care</p>
+
+<p class=MsoNormal align=center style='text-align:center'>Package <span
+class=GramE>Category :</span> Basic</p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><o:p></o:p></span></p>
+
+<table class=MsoNormalTable border=1 cellpadding=0 align=left width=1111
+ style='width:833.1pt;mso-cellspacing:1.5pt;mso-yfti-tbllook:1184;mso-table-lspace:
+ 9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:6.75pt;
+ mso-table-anchor-vertical:margin;mso-table-anchor-horizontal:margin;
+ mso-table-left:left;mso-table-top:20.9pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:13.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='mso-fareast-font-family:"Times New Roman"'>Disease <span class=SpellE>Name:Genderal</span>
+  Health<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:153.15pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:153.15pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0 width=637
+   style='width:477.4pt;mso-cellspacing:1.5pt;margin-left:170.9pt;mso-yfti-tbllook:
+   1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:29.75pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Parameter<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>BioLogicalRefrenceRange</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Method<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Results<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:29.75pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>HAEMOGLOBIN<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>13.5-18 gm%<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Cyanide free SLS<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:29.75pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>RBC COUNT<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>4.5-5.5 mil/<span
+    class=SpellE>cmm</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Hydrodynamic Electrical <span
+    class=SpellE>Impedence</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:29.75pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>PCV<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>40-50%<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Hydrodynamic Electrical <span
+    class=SpellE>Impedence</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:29.75pt'></td>
+   </tr>
+  </table>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:13.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:13.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='mso-fareast-font-family:"Times New Roman"'>Disease <span class=SpellE>Name:Diabetes</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:153.15pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:153.15pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0 width=638
+   style='width:478.5pt;mso-cellspacing:1.5pt;margin-left:172.0pt;mso-yfti-tbllook:
+   1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.55pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Parameter<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>BioLogicalRefrenceRange</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>UNITS<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Results<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:30.55pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>GLUCOSE-FASTING<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>&lt;=92<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Mg/dl<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:30.55pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>GLUCOSE-1 HR<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>&lt;=180<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Mg/dl<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.55pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>GLUCOSE-2 HR<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>&lt;=153<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Mg/dl<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.55pt'></td>
+   </tr>
+  </table>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:13.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:13.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='mso-fareast-font-family:"Times New Roman"'>Disease <span class=SpellE>Name:Thyriod</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:153.15pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:153.15pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0 width=642
+   style='width:481.85pt;mso-cellspacing:1.5pt;margin-left:169.8pt;mso-yfti-tbllook:
+   1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:31.4pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Parameter<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>BioLogicalRefrenceRange</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Method<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Results<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:31.4pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>T3<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>92.66<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Cyanide free SLS<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:31.4pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>T4<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>3.30<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Hydrodynamic Electrical <span
+    class=SpellE>Impedence</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:31.4pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>TSH 3<sup>RD</sup>
+    GENERATION<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>128.905<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Hydrodynamic Electrical <span
+    class=SpellE>Impedence</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:31.4pt'></td>
+   </tr>
+  </table>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:13.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:13.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='mso-fareast-font-family:"Times New Roman"'>Disease <span class=SpellE>Name:Lipid</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:131.1pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:131.1pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0 width=668
+   style='width:501.2pt;mso-cellspacing:1.5pt;margin-left:158.75pt;mso-yfti-tbllook:
+   1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30.7pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Parameter<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>BioLogicalRefrenceRange</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>UNIT<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Results<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:30.7pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>CHOLESTEROL<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>0.0 &#8211; 0.6<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>mmo</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'> 1/L<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:30.7pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>HDL<span
+    style='mso-spacerun:yes'>&nbsp; </span>CHOLESTEROL<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>&gt;0.1<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>mmo</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'> 1/L<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:30.7pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>LDL<span
+    style='mso-spacerun:yes'>&nbsp; </span>CHOLESTEROL<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>0.0 &#8211; 4.0<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>mmo</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'> 1/L<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:30.7pt'></td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:13.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:13.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='mso-fareast-font-family:"Times New Roman"'>Disease <span class=SpellE>Name:Kidney</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:78.25pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:78.25pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0 width=696
+   style='width:522.2pt;mso-cellspacing:1.5pt;margin-left:148.2pt;mso-yfti-tbllook:
+   1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:17.6pt'>
+    <td width=139 style='width:103.95pt;padding:.75pt .75pt .75pt .75pt;
+    height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Parameter<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>BioLogicalRefrenceRange</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Method<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Results<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:17.6pt'>
+    <td width=139 style='width:103.95pt;padding:.75pt .75pt .75pt .75pt;
+    height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>DANILO ASASE,MD<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>9.00<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Cyanide free SLS<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:17.6pt'>
+    <td width=139 style='width:103.95pt;padding:.75pt .75pt .75pt .75pt;
+    height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>RBC COUNT<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>4.5-5.5 mil/<span
+    class=SpellE>cmm</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Hydrodynamic Electrical <span
+    class=SpellE>Impedence</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:17.6pt'>
+    <td width=139 style='width:103.95pt;padding:.75pt .75pt .75pt .75pt;
+    height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>HERLIGEN<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>4.00<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Hydrodynamic Electrical <span
+    class=SpellE>Impedence</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:17.6pt'></td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:13.75pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:13.75pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+  margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+  style='mso-fareast-font-family:"Times New Roman"'>Disease <span class=SpellE>Name:Liver</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes;height:84.6pt'>
+  <td style='padding:.75pt .75pt .75pt .75pt;height:84.6pt'>
+  <table class=MsoNormalTable border=1 cellpadding=0 width=706
+   style='width:529.75pt;mso-cellspacing:1.5pt;margin-left:142.3pt;mso-yfti-tbllook:
+   1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.65pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Parameter<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span class=SpellE><span
+    style='mso-fareast-font-family:"Times New Roman"'>BioLogicalRefrenceRange</span></span><span
+    style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>UNIT<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>Results<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:20.65pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>RBC<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>13.5-18 gm%<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>3.5-7.50<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:20.65pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>HCT<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>4.5-5.5 mil/<span
+    class=SpellE>cmm</span><o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>37.0-50.0<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3;height:20.65pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>MCV<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>40-50%<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>82-95<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:20.65pt'>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>NEU%<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>60<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal align=center style='text-align:center;mso-element:frame;
+    mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:
+    margin;mso-element-top:20.9pt;mso-height-rule:exactly'><span
+    style='mso-fareast-font-family:"Times New Roman"'>40-70<o:p></o:p></span></p>
+    </td>
+    <td style='padding:.75pt .75pt .75pt .75pt;height:20.65pt'>
+    <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+    "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

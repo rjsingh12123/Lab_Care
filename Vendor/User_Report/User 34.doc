@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+</head>
+<body>
+<table border="1">
+<tr>
+<td>
+    Name   :  Alia Bhutt</td>
+</tr>
+<tr>
+<td>	
+	Age    :  26 yrs</td>
+</tr>
+<tr>
+<td>	
+	Gender :  2</td>
+</tr>
+<table border="1">
+  <tr>
+  <td>
+    Report : <!-- <a href="../pages/Age/">link</a>  -->
+	<h1></h1><table border="1"><tr><td>Age_To: 17</tr><tr><td>Disease_Name:ALLERGY</td></tr><tr><td>Test_Name:CASERUM</td></tr><tr><td> ABC Complete Blood Count</td></tr><tr><table border="1"><tr><td>Parameter</td><td>BioLogicalRefrenceRange</td><td>Method</td><td></td>Results</tr><tr><td>HAEMOGLOBIN</td><td>13.5-18 gm%</td><td>Cyanide free SLS</td><td></td></tr><tr><td>RBC COUNT</td><td>4.5-5.5 mil/cmm</td><td>Hydrodynamic   Electrical  Impedence</td><td></td></tr><tr><td>PCV</td><td>40-50%</td><td>Hydrodynamic   Electrical  Impedence</td><td></td></tr></table></tr></tr></table>	
+Hello
+  </td>
+  </tr>
+</table>
+</table>
+</body>
+</html>

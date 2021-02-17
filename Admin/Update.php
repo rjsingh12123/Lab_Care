@@ -1,0 +1,60 @@
+<?php
+include "connect.php";
+
+if(isset($_GET["id"]))
+{
+	$w=$_GET['id'];
+	$r=$_POST['ciname'];
+	$link->where("CountryID",$w);
+	$a=$link->update("CountryTB",Array("Country_Name"=>$r));
+    header("location:CountryDisplay.php");
+}
+if(isset($_GET["id1"]))
+{
+	$a=$_GET["id1"];
+	$b=$_POST["coname"];
+	$c=$_POST["sname"];
+	$link->where("StateID",$a);
+	$a=$link->update("StateTB",Array("CountryID"=>$b,"State_Name"=>$c));
+	header("location:StateDisplay.php");
+}
+if(isset($_GET["id2"]))
+{
+	$a=$_GET["id2"];
+	$b=$_POST["coname"];
+	$c=$_POST["cname"];
+	$link->where("CityID",$a);
+	$a=$link->update("CityTB",Array("StateID"=>$b,"City_Name"=>$c));
+	header("location:CityDisplay.php");
+}
+if(isset($_GET["id3"]))
+{
+	$a=$_GET["id3"];
+	$b=$_POST['pname'];
+	$c=$_POST['description'];
+	$d=$_POST['pcname'];
+	$link->where("PackageCategoryID",$a);
+	$a=$link->update("PackageCategoryTB",Array('PackageID'=>$b,'PackageCategoryName'=>$d,'Description'=>$c));
+	header("location:PackageCategoryDisplay.php");
+}
+if(isset($_GET["id4"]))
+{
+	$a1=$_GET["id4"];
+	$a=$_POST["dname"];
+	$b=$_POST["cname"];
+	$c=$_POST["tname"];
+	$d=$_POST["price"];  
+	$link->where("TestID",$a1);
+	$a=$link->update("TestTB",Array('Test_Name'=>$c,'DiseaseID'=>$a,'CityID'=>$b,'Price'=>$d));
+	header("location:../Test/TestDiseaseDetails.php");
+}
+if(isset($_GET["id5"]))
+{
+	$a1=$_GET["id5"];  
+	$dn=$_POST["dname"];
+	$d=$_POST["description"];
+	$link->where("DiseaseID",$a1);
+	$a=$link->update("diseasecategorytb",Array("Disease_Name"=>$dn,"Description"=>$d));
+	header("location:../Disease/DiseaseDetails.php");
+}
+?>
